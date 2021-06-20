@@ -93,8 +93,8 @@ if __name__ == '__main__':
 		final_thing = json.dumps(edit_data(json_data), ensure_ascii=False, indent="\t", sort_keys=False)
 
 		# this is a very bad botch. this has to be changed on the future
-		final_thing = re.sub(r'(?<=")[^"]+@[^"]+(?=")', "--BLANKED (group email)--", final_thing)
-		final_thing = re.sub(r'(?<="name_hr": ").+(?=")', "--BLANKED (group name)--", final_thing)
+		final_thing = re.sub(r'(?<=")[^"]+@[^"]+(?=")', "--BLANKED-- (group email)", final_thing)
+		final_thing = re.sub(r'(?<="name_hr": ").+(?=")', "--BLANKED-- (group name)", final_thing)
 
 		with open(file_name, "w", encoding="utf-8") as file:
 			file.write(final_thing)
