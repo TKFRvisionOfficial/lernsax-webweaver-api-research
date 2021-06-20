@@ -12,7 +12,7 @@ Hello, this project is about reverse engineering the LernSax API. It seems that 
 
 
 ## HOW TO DUMP DATA
-For capturing the requests and reponses from the server you can probarly use things like [mitmproxy](https://mitmproxy.org/) but personaly I use a modified version of the lernsax app which logs the requests and reponses via logcat. Because of copyright issues I can't publish the app right now but I am commited to figuring out a way to publish this app (or the modifications) without infringing copyright.
+For capturing the requests and reponses from the server you can probarly use things like [mitmproxy](https://mitmproxy.org/) but personaly I use a [modified version of the lernsax app](https://github.com/TKFRvisionOfficial/lernsax-webweaver-iglogger) which logs the requests and reponses via logcat.
 
 
 ## HOW THIS REPOSITORY WORKS
