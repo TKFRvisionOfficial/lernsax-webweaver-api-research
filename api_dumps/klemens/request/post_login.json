@@ -1,0 +1,35 @@
+[
+	{
+		"jsonrpc": "2.0",
+		"method": "set_session",
+		"id": 1,
+		"params": {
+			"session_id": "--BLANKED-- (session_id)"
+		}
+	},
+	{
+		"jsonrpc": "2.0",
+		"method": "set_focus",
+		"id": 2,
+		"params": {
+			"object": "messenger"
+		}
+	},
+	{
+		"jsonrpc": "2.0",
+		"method": "read_quick_messages",
+		"id": 3,
+		"params": {
+			"export_session_file": 1
+		}
+	},
+	{
+		"jsonrpc": "2.0",
+		"method": "get_users",
+		"id": 4,
+		"params": {
+			"only_online": 0,
+			"get_miniatures": 1
+		}
+	}
+]

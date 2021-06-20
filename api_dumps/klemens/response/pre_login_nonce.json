@@ -1,0 +1,15 @@
+[
+	{
+		"jsonrpc": "2.0",
+		"id": 1,
+		"result": {
+			"method": "get_nonce",
+			"return": "OK",
+			"debug": null,
+			"nonce": {
+				"id": "--BLANKED-- (nonce_id)",
+				"key": "--BLANKED-- (nonce_key)"
+			}
+		}
+	}
+]

@@ -1,0 +1,44 @@
+[
+	{
+		"jsonrpc": "2.0",
+		"id": 1,
+		"result": {
+			"method": "set_session",
+			"return": "OK",
+			"debug": null
+		}
+	},
+	{
+		"jsonrpc": "2.0",
+		"id": 2,
+		"result": {
+			"method": "set_focus",
+			"return": "OK",
+			"debug": null,
+			"user": {
+				"login": "--BLANKED-- (email)",
+				"name_hr": "--BLANKED (group name)--",
+				"type": 1
+			},
+			"object": "settings"
+		}
+	},
+	{
+		"jsonrpc": "2.0",
+		"id": 3,
+		"result": {
+			"method": "unregister_service",
+			"return": "OK",
+			"debug": null
+		}
+	},
+	{
+		"jsonrpc": "2.0",
+		"id": 4,
+		"result": {
+			"method": "logout",
+			"return": "OK",
+			"debug": null
+		}
+	}
+]

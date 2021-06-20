@@ -1,0 +1,22 @@
+{
+	"jsonrpc": "2.0",
+	"id": 5,
+	"result": {
+		"method": "register_master",
+		"return": "OK",
+		"debug": null,
+		"trust": {
+			"token": "--BLANKED-- (token)",
+			"is_master": 0,
+			"is_slave": 1,
+			"is_replication": 0,
+			"remote_application": "wwa",
+			"remote_title": "Android App",
+			"remote_ident": "--BLANKED-- (device name)",
+			"remote_host": null,
+			"local_title": "LernSax",
+			"local_ident": "--BLANKED-- (email)",
+			"local_host": "www.lernsax.de"
+		}
+	}
+}

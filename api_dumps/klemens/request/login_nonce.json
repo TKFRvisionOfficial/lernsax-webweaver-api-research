@@ -1,0 +1,40 @@
+[
+	{
+		"jsonrpc": "2.0",
+		"method": "login",
+		"id": 1,
+		"params": {
+			"application": "wwa",
+			"hash": "--BLANKED-- (hash [nonce_key + salt + token])",
+			"salt": "--BLANKED-- (salt)",
+			"nonce_id": "--BLANKED-- (nonce_id)",
+			"algorithm": "sha1",
+			"login": "--BLANKED-- (email)",
+			"get_miniature": true
+		}
+	},
+	{
+		"jsonrpc": "2.0",
+		"method": "set_focus",
+		"id": 2,
+		"params": {
+			"object": "settings"
+		}
+	},
+	{
+		"jsonrpc": "2.0",
+		"method": "register_service",
+		"id": 3,
+		"params": {
+			"service": "fcm",
+			"token": "--BLANKED-- (firebase token)",
+			"application": "de.digionline.webweaverlernsax"
+		}
+	},
+	{
+		"jsonrpc": "2.0",
+		"method": "get_information",
+		"id": 999,
+		"params": {}
+	}
+]

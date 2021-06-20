@@ -1,0 +1,33 @@
+[
+	{
+		"jsonrpc": "2.0",
+		"method": "set_session",
+		"id": 1,
+		"params": {
+			"session_id": "--BLANKED-- (session_id)"
+		}
+	},
+	{
+		"jsonrpc": "2.0",
+		"method": "set_focus",
+		"id": 2,
+		"params": {
+			"object": "settings"
+		}
+	},
+	{
+		"jsonrpc": "2.0",
+		"method": "unregister_service",
+		"id": 3,
+		"params": {
+			"service": "fcm",
+			"token": "--BLANKED-- (firebase token)"
+		}
+	},
+	{
+		"jsonrpc": "2.0",
+		"method": "logout",
+		"id": 4,
+		"params": {}
+	}
+]

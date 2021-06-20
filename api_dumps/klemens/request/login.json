@@ -1,0 +1,54 @@
+[
+	{
+		"jsonrpc": "2.0",
+		"method": "login",
+		"id": 1,
+		"params": {
+			"login": "--BLANKED-- (email)",
+			"password": "--BLANKED-- (password)",
+			"get_miniature": true
+		}
+	},
+	{
+		"jsonrpc": "2.0",
+		"method": "set_focus",
+		"id": 2,
+		"params": {
+			"object": "trusts"
+		}
+	},
+	{
+		"jsonrpc": "2.0",
+		"method": "register_master",
+		"id": 3,
+		"params": {
+			"remote_application": "wwa",
+			"remote_title": "Android App",
+			"remote_ident": "--BLANKED-- (device name)"
+		}
+	},
+	{
+		"jsonrpc": "2.0",
+		"method": "set_focus",
+		"id": 4,
+		"params": {
+			"object": "settings"
+		}
+	},
+	{
+		"jsonrpc": "2.0",
+		"method": "register_service",
+		"id": 5,
+		"params": {
+			"service": "fcm",
+			"token": "--BLANKED-- (firebase token)",
+			"application": "de.digionline.webweaverlernsax"
+		}
+	},
+	{
+		"jsonrpc": "2.0",
+		"method": "get_information",
+		"id": 999,
+		"params": {}
+	}
+]
