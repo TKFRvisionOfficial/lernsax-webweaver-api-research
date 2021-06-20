@@ -17,7 +17,7 @@
 			"debug": null,
 			"user": {
 				"login": "--BLANKED-- (email)",
-				"name_hr": "--BLANKED (group name)--",
+				"name_hr": "--BLANKED-- (fullname)",
 				"type": 1
 			},
 			"object": "settings"

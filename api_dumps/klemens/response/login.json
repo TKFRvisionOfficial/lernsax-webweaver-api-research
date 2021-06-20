@@ -8,7 +8,7 @@
 			"debug": null,
 			"user": {
 				"login": "--BLANKED-- (email)",
-				"name_hr": "--BLANKED (group name)--",
+				"name_hr": "--BLANKED-- (fullname)",
 				"type": 1,
 				"base_rights": [
 					"wall",
@@ -28,7 +28,7 @@
 				],
 				"base_user": {
 					"login": "--BLANKED-- (school email)",
-					"name_hr": "--BLANKED (group name)--",
+					"name_hr": "--BLANKED-- (school name)",
 					"type": 16
 				},
 				"fullname": "--BLANKED-- (fullname)",
@@ -61,7 +61,7 @@
 			"member": [
 				{
 					"login": "--BLANKED-- (group email)",
-					"name_hr": "--BLANKED (group name)--",
+					"name_hr": "--BLANKED-- (group name)",
 					"type": 18,
 					"base_rights": [
 						"wall_write",
@@ -109,7 +109,7 @@
 				},
 				{
 					"login": "--BLANKED-- (group email)",
-					"name_hr": "--BLANKED (group name)--",
+					"name_hr": "--BLANKED-- (group name)",
 					"type": 16,
 					"base_rights": [
 						"wall_admin",
@@ -161,7 +161,7 @@
 				},
 				{
 					"login": "--BLANKED-- (group email)",
-					"name_hr": "--BLANKED (group name)--",
+					"name_hr": "--BLANKED-- (group name)",
 					"type": 18,
 					"base_rights": [
 						"wall_write",
@@ -211,7 +211,7 @@
 				},
 				{
 					"login": "--BLANKED-- (group email)",
-					"name_hr": "--BLANKED (group name)--",
+					"name_hr": "--BLANKED-- (group name)",
 					"type": 19,
 					"base_rights": [
 						"mail_write",
@@ -263,7 +263,7 @@
 				},
 				{
 					"login": "--BLANKED-- (group email)",
-					"name_hr": "--BLANKED (group name)--",
+					"name_hr": "--BLANKED-- (group name)",
 					"type": 18,
 					"base_rights": [
 						"wall_write",
@@ -312,7 +312,7 @@
 				},
 				{
 					"login": "--BLANKED-- (group email)",
-					"name_hr": "--BLANKED (group name)--",
+					"name_hr": "--BLANKED-- (group name)",
 					"type": 18,
 					"base_rights": [
 						"wall_write",
@@ -361,7 +361,7 @@
 				},
 				{
 					"login": "--BLANKED-- (group email)",
-					"name_hr": "--BLANKED (group name)--",
+					"name_hr": "--BLANKED-- (group name)",
 					"type": 18,
 					"base_rights": [
 						"wall_write",
@@ -410,7 +410,7 @@
 				},
 				{
 					"login": "--BLANKED-- (group email)",
-					"name_hr": "--BLANKED (group name)--",
+					"name_hr": "--BLANKED-- (group name)",
 					"type": 18,
 					"base_rights": [
 						"wall_write",
@@ -459,7 +459,7 @@
 				},
 				{
 					"login": "--BLANKED-- (group email)",
-					"name_hr": "--BLANKED (group name)--",
+					"name_hr": "--BLANKED-- (group name)",
 					"type": 18,
 					"base_rights": [
 						"wall_write",
@@ -508,7 +508,7 @@
 				},
 				{
 					"login": "--BLANKED-- (group email)",
-					"name_hr": "--BLANKED (group name)--",
+					"name_hr": "--BLANKED-- (group name)",
 					"type": 18,
 					"base_rights": [
 						"wall_write",
@@ -557,7 +557,7 @@
 				},
 				{
 					"login": "--BLANKED-- (group email)",
-					"name_hr": "--BLANKED (group name)--",
+					"name_hr": "--BLANKED-- (group name)",
 					"type": 18,
 					"base_rights": [
 						"wall_write",
@@ -606,7 +606,7 @@
 				},
 				{
 					"login": "--BLANKED-- (group email)",
-					"name_hr": "--BLANKED (group name)--",
+					"name_hr": "--BLANKED-- (group name)",
 					"type": 18,
 					"base_rights": [
 						"wall_write",
@@ -655,7 +655,7 @@
 				},
 				{
 					"login": "--BLANKED-- (group email)",
-					"name_hr": "--BLANKED (group name)--",
+					"name_hr": "--BLANKED-- (group name)",
 					"type": 18,
 					"base_rights": [
 						"wall_write",
@@ -704,7 +704,7 @@
 				},
 				{
 					"login": "--BLANKED-- (group email)",
-					"name_hr": "--BLANKED (group name)--",
+					"name_hr": "--BLANKED-- (group name)",
 					"type": 18,
 					"base_rights": [
 						"wall_write",
@@ -753,7 +753,7 @@
 				},
 				{
 					"login": "--BLANKED-- (group email)",
-					"name_hr": "--BLANKED (group name)--",
+					"name_hr": "--BLANKED-- (group name)",
 					"type": 18,
 					"base_rights": [
 						"wall_write",
@@ -801,7 +801,7 @@
 				},
 				{
 					"login": "--BLANKED-- (group email)",
-					"name_hr": "--BLANKED (group name)--",
+					"name_hr": "--BLANKED-- (group name)",
 					"type": 18,
 					"base_rights": [
 						"wall_write",
@@ -851,7 +851,7 @@
 				},
 				{
 					"login": "--BLANKED-- (group email)",
-					"name_hr": "--BLANKED (group name)--",
+					"name_hr": "--BLANKED-- (group name)",
 					"type": 18,
 					"base_rights": [
 						"wall_write",
@@ -901,7 +901,7 @@
 				},
 				{
 					"login": "--BLANKED-- (group email)",
-					"name_hr": "--BLANKED (group name)--",
+					"name_hr": "--BLANKED-- (group name)",
 					"type": 18,
 					"base_rights": [
 						"wall_write",
@@ -957,7 +957,7 @@
 				},
 				{
 					"login": "--BLANKED-- (group email)",
-					"name_hr": "--BLANKED (group name)--",
+					"name_hr": "--BLANKED-- (group name)",
 					"type": 18,
 					"base_rights": [
 						"wall_write",
@@ -1011,7 +1011,7 @@
 				},
 				{
 					"login": "--BLANKED-- (group email)",
-					"name_hr": "--BLANKED (group name)--",
+					"name_hr": "--BLANKED-- (group name)",
 					"type": 18,
 					"base_rights": [
 						"wall_write",
@@ -1065,7 +1065,7 @@
 				},
 				{
 					"login": "--BLANKED-- (group email)",
-					"name_hr": "--BLANKED (group name)--",
+					"name_hr": "--BLANKED-- (group name)",
 					"type": 18,
 					"base_rights": [
 						"wall_write",
@@ -1131,7 +1131,7 @@
 			"debug": null,
 			"user": {
 				"login": "--BLANKED-- (email)",
-				"name_hr": "--BLANKED (group name)--",
+				"name_hr": "--BLANKED-- (fullname)",
 				"type": 1
 			},
 			"object": "trusts"
@@ -1168,7 +1168,7 @@
 			"debug": null,
 			"user": {
 				"login": "--BLANKED-- (email)",
-				"name_hr": "--BLANKED (group name)--",
+				"name_hr": "--BLANKED-- (fullname)",
 				"type": 1
 			},
 			"object": "settings"

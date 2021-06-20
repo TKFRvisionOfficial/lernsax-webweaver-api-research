@@ -92,7 +92,7 @@ if __name__ == '__main__':
 
 		# this is a very bad botch. this has to be changed on the future
 		final_thing = re.sub(r'(?<=")[^"]+@[^"]+(?=")', "--BLANKED-- (group email)", final_thing)
-		final_thing = re.sub(r'(?<="name_hr": ").+(?=")', "--BLANKED-- (group name)", final_thing)
+		final_thing = re.sub(r'(?<="name_hr": ")(?!--BLANKED--).+(?=")', "--BLANKED-- (group name)", final_thing)
 
 		with open(file_name, "w", encoding="utf-8") as file:
 			file.write(final_thing)
