@@ -26,4 +26,4 @@ sharing markdown documentation of the apis
 
 ## SCRIPTS
 **[censor_jsons](/scripts/censorjsons)**<br>
-A script to censor the personal information of a folder of jsons you dumped. Because I was to lazy to implement argparse you have to edit the secrets.py before usage. I also botched some of the email replacement with two regex statements which aren't really well though out. Also make sure to check the results before publishing them.
+A script to censor the personal information of a folder of jsons you dumped. Because I was to lazy to implement argparse you have to edit the _secrets.py before usage. I also botched some of the email replacement with two regex statements which aren't really well though out. Also make sure to check the results before publishing them.

@@ -1,5 +1,5 @@
 # id like to not require that in the future
-from secrets import *
+from _secrets import *
 
 to_replace_key = {
 	("password",): "--BLANKED-- (password)",
@@ -78,11 +78,11 @@ if __name__ == '__main__':
 	import sys
 
 	if not has_edited_secrets:
-		print("you have not edited the secrets.py yet. please do that first!")
+		print("you have not edited the _secrets.py yet. please do that first!")
 		sys.exit(1)
 
 
-	print("WARNING! MAKE SURE YOU HAVE SET YOUR INFORMATION IN THE secrets.py AND CHECK THE RESULTS AFTERWARDS BEFORE PUBLISHING!")
+	print("WARNING! MAKE SURE YOU HAVE SET YOUR INFORMATION IN THE _secrets.py AND CHECK THE RESULTS AFTERWARDS BEFORE PUBLISHING!")
 	os.chdir(path_to_files)
 
 	for file_name in os.listdir():
