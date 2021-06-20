@@ -1,7 +1,5 @@
-from secrets import to_replace_str, path_to_files, has_edited_secrets
-
 # id like to not require that in the future
-from secrets import to_replace_str
+from secrets import *
 
 to_replace_key = {
 	("password",): "--BLANKED-- (password)",
