@@ -1,3 +1,5 @@
+**This project is no way associated with LernSax, WebWeaver, DigiOnline GmbH or Freistaat Sachsen**
+
 # Research on the LernSax/WebWeaver API
 
 ## RULES
